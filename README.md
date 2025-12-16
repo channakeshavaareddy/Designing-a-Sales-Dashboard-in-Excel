@@ -1,4 +1,4 @@
-# Designing-a-Sales-Dashboard-in-Excel
+# Designing a Sales Dashboard in Excel
 ## Project Description
 In the present business environment, organizations rely heavily on data to evaluate performance and make effective decisions. Sales data, when analyzed properly, helps businesses understand customer behavior, product performance, and regional demand. This project focuses on the design and development of an interactive Sales Dashboard using Microsoft Excel for an E-Commerce organization.
 The dashboard is designed to analyze sales performance across different product categories and enables users to view trends on a monthly, product-wise, and region-wise basis. The project makes use of an E-Commerce dataset that contains detailed information related to orders, customers, products, shipping, sales, and profit. Excel tools such as Pivot Tables, Charts, User Controls, and formulas are used to transform raw data into meaningful insights. The final dashboard provides a consolidated view of key performance indicators (KPIs) on a single screen, making sales analysis easier and more efficient.
