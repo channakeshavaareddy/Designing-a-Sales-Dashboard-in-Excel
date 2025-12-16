@@ -15,7 +15,7 @@ The objectives of this project are as follows:
 ## Problem Statement
 An E-Commerce company requires an effective way to analyze its sales data and monitor performance across different product categories. The company wants to provide users with control to select a product category and view sales trends on a month-by-month and product-by-product basis. To address this requirement, Microsoft Excel is used as the analytical tool to design an interactive sales dashboard that presents sales, profit, quantity, and shipping-related insights in a clear and structured manner.
 
-Prerequisites
+## Prerequisites
 The following skills are required to complete this project successfully:
 -	Ability to create charts and graphs in Microsoft Excel
 -	Knowledge of data analysis techniques in Excel
