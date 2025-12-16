@@ -55,16 +55,16 @@ The expected outcome of this project is a fully functional and interactive sales
 
  ## Outputs of Designing-a-Sales-Dashboard-in-Excel Project:
 
- ## Main Dashboard
-  ![image alt](https://github.com/channakeshavaareddy/Super-Store-Sales-Dashboard/blob/main/Screenshots/Screenshot%202025-09-25%20113027.png)
+ ## Monthly Sales Board
+  ![image alt](https://github.com/channakeshavaareddy/Designing-a-Sales-Dashboard-in-Excel/blob/main/Screenshots/Screenshot%202025-12-12%20190417.png)
 
-   ## Main Dashboard
-  ![image alt](https://github.com/channakeshavaareddy/Super-Store-Sales-Dashboard/blob/main/Screenshots/Screenshot%202025-09-25%20113027.png)
+   ##Product Sales
+  ![image alt](https://github.com/channakeshavaareddy/Designing-a-Sales-Dashboard-in-Excel/blob/main/Screenshots/Screenshot%202025-12-12%20190500.png)
 
-   ## Main Dashboard
-  ![image alt](https://github.com/channakeshavaareddy/Super-Store-Sales-Dashboard/blob/main/Screenshots/Screenshot%202025-09-25%20113027.png)
+   ## Sales Dashboard - Product Category Analysis
+  ![image alt](https://github.com/channakeshavaareddy/Designing-a-Sales-Dashboard-in-Excel/blob/main/Screenshots/Screenshot%202025-12-12%20190527.png)
 
-  Conclusion
+ ##Conclusion
 This project demonstrates the effective use of Microsoft Excel as a business analytics tool for sales analysis. By combining data analysis techniques, visualizations, and user controls, the dashboard converts large volumes of raw data into actionable insights. The project highlights the importance of dashboards in tracking performance and supporting strategic decision-making in an E-Commerce environment.
 
 
